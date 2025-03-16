@@ -1,0 +1,33 @@
+.justify{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    text-indent: 2em;
+    text-align: left;
+}
+.ore{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    text-indent: 2em;
+    text-align: right;
+}
+
+.ara{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    text-indent: 2em;
+    text-align: center;
+}
+.uru{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    text-indent: 2em;
+    text-align: justify;
+}

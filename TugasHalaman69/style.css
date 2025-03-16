@@ -1,0 +1,41 @@
+body{
+    background-color: #f5f7f8d6;
+    font-family: cursive;
+}
+
+.nama{
+    color: rgb(0, 34, 255);
+}
+
+.gambar-dimas{
+    height: 300px;
+    width: 450px;
+    border-radius: 35%;
+    object-fit: cover;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+
+}
+.nav{
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 8px 4px 8px black;
+}
+.fe{
+    width: 100%;
+    height: 100%;
+}
+
+.profile-container {
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: cursive;
+  }
+
+.container-deskripsi{
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 8px 4px 8px black; 
+}
